@@ -1,0 +1,6 @@
+name = input("what is your name \n")
+age = int(input("tell me your age\n"))
+marks = float(input("total marks \n"))
+print(name)
+print(age)
+print(marks)
