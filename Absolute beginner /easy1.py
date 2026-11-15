@@ -1,10 +1,7 @@
-fname = "Tony"
-lname = "Stark"
-age = 53
-height = 1.85
-print("first name : " + fname + "last name " + lname)
-print("Age :",age)
-print("height: ", height)
-
-super = input("His superhero name is : ")
-
+num = 1
+print(num)
+if num == 2:
+    print("the number is 2")
+else:
+    print("the number is not 2")
+print('done')
